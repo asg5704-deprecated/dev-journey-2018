@@ -57,7 +57,7 @@ This is a guide of the accomplishments in web development that I would like to t
 - Write down notes in your notebook
 - Learn about linting.
 - Learn about CSS conventions like BEM &amp; SMACSS
--
+- Complete FreeCodeCamp Front-end Certification
 
 ## Attribution
 Inspired by:
