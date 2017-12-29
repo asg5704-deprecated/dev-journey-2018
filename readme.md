@@ -3,6 +3,7 @@ This is a guide of the accomplishments in web development that I would like to t
 
 ## College Courses
 | Type | Item | Begin | Project(s) | Completed |
+| :---: | :--- | :---: | :---: | :---: |
 | Course | [Intro to Computer Science CS50x](https://courses.edx.org/courses/course-v1%3AHarvardX%2BCS50%2BX/) | 1 January 2018 | | |
 | Course | [Effective Thinking Through Mathematics - UTAustinX](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x-0) | | | |
 | Course | [Mathematics for Computer Science - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/) | | | |
@@ -12,6 +13,7 @@ This is a guide of the accomplishments in web development that I would like to t
 ## Udemy Courses
 
 | Type | Item | Begin | Project(s) | Completed |
+| :---: | :--- | :---: | :---: | :---: |
 | Course | [The Advanced Web Developer Bootcamp](https://www.udemy.com/the-advanced-web-developer-bootcamp/) | | | |
 | Course | [Ultimate MySQL Bootcamp](https://www.udemy.com/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/) | | | |
 | Course | [VueJS 2 - The Complete Guide](https://www.udemy.com/vuejs-2-the-complete-guide/) | | | |
@@ -22,6 +24,7 @@ This is a guide of the accomplishments in web development that I would like to t
 ## Books
 
 | Type | Item | Begin | Project(s) | Completed |
+| :---: | :--- | :---: | :---: | :---: |
 | Book | [Eloquent Javascript](http://eloquentjavascript.net/) by Marijn Haverbeke | | | |
 | Book | [Programming Javascript Applications](https://ericelliottjs.com/product/programming-javascript-applications-ebook/) by Eric Elliott | | | |
 | Book | [Effective Javascript](http://effectivejs.com/) by David Herman | | | |
@@ -37,7 +40,8 @@ This is a guide of the accomplishments in web development that I would like to t
 ## Miscellaneous Courses
 
 | Type | Item | Begin | Project(s) | Completed |
-| Course | [Watch and Code - Practical Javascript](https://watchandcode.com/p/practical-javascript) | | |  |
+| :---: | :--- | :---: | :---: | :---: |
+| Course | [Watch and Code - Practical Javascript](https://watchandcode.com/p/practical-javascript) | | | |
 | Course | [Udacity - AJAX](https://www.udacity.com/course/intro-to-ajax--ud110) | | | |
 | Course | [Javascript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript/) | | | |
 | Slides | [Learn Advanced HTML &amp; CSS - Shay Howe](https://learn.shayhowe.com/advanced-html-css/) | | | |
@@ -46,6 +50,8 @@ This is a guide of the accomplishments in web development that I would like to t
 
 ## Projects
 
+| Type | Item | Begin | Project(s) | Completed |
+| :---: | :--- | :---: | :---: | :---: |
 | Project | [100 Days of CSS](http://www.sassshop.com/#/) | | | |
 | Project | [Recipe Box App](#) from FreeCodeCamp - React | | | |
 | Project | [URL Shortener Microservice](#) from FreeCodeCamp - Node | | | |
