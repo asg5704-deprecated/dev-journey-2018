@@ -4,7 +4,7 @@ This is a guide of the accomplishments in web development that I would like to t
 ## College Courses
 | Type | Item | Begin | Project(s) | Completed |
 | :---: | :--- | :---: | :---: | :---: |
-| Course | [Intro to Computer Science CS50x](https://courses.edx.org/courses/course-v1%3AHarvardX%2BCS50%2BX/) | 1 January 2018 | | |
+| Course | [Intro to Computer Science CS50x](https://courses.edx.org/courses/course-v1%3AHarvardX%2BCS50%2BX/) | 1 January 2018 (temporarily on hold) | | |
 | Course | [Effective Thinking Through Mathematics - UTAustinX](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x-0) | | | |
 | Course | [Mathematics for Computer Science - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/) | | | |
 | Course | [Calculus One - OSUx](https://www.coursera.org/learn/calculus1) | | | |
@@ -25,8 +25,8 @@ This is a guide of the accomplishments in web development that I would like to t
 
 | Type | Item | Begin | Project(s) | Completed |
 | :---: | :--- | :---: | :---: | :---: |
-| Book | [Eloquent Javascript](http://eloquentjavascript.net/) by Marijn Haverbeke | | | |
-| Book | [Programming Javascript Applications](https://ericelliottjs.com/product/programming-javascript-applications-ebook/) by Eric Elliott | | | |
+| Book | [Eloquent Javascript](http://eloquentjavascript.net/) by Marijn Haverbeke | 15 January 2018 | | 20 February 2018 |
+| Book | [Programming Javascript Applications](https://ericelliottjs.com/product/programming-javascript-applications-ebook/) by Eric Elliott | 20 February 2018 | | |
 | Book | [Effective Javascript](http://effectivejs.com/) by David Herman | | | |
 | Book | [You Don't Know Javascript - Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going/) by Kyle Simpson | | | |
 | Book | [You Don't Know Javascript - Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures) by Kyle Simpson  | | | |
@@ -34,8 +34,8 @@ This is a guide of the accomplishments in web development that I would like to t
 | Book | [You Don't Know Javascript - Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar) by Kyle Simpson  | | | |
 | Book | [You Don't Know Javascript - Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance) by Kyle Simpson  | | | |
 | Book | [You Don't Know Javascript - ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond) by Kyle Simpson  | | | |
-| Book | [Setting Up ES6](http://exploringjs.com/setting-up-es6.html) | | | |
-
+| Book | [Setting Up ES6](https://leanpub.com/setting-up-es6/read) by Dr. Axel Rauschmayer | | | |
+| Book | [Building Progressive Web Apps](http://shop.oreilly.com/product/0636920052067.do) by Tal Ater | | | |
 
 ## Miscellaneous Courses
 
