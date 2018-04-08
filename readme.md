@@ -4,7 +4,7 @@ This is a guide of the accomplishments in web development that I would like to t
 ## College Courses
 | Type | Item | Begin | Project(s) | Completed |
 | :---: | :--- | :---: | :---: | :---: |
-| Course | [Intro to Computer Science CS50x](https://courses.edx.org/courses/course-v1%3AHarvardX%2BCS50%2BX/) | 1 January 2018 (continued on 19 March 2018) | | Week 4 - PSET 5 |
+| Course | [Intro to Computer Science CS50x](https://courses.edx.org/courses/course-v1%3AHarvardX%2BCS50%2BX/) | 1 January 2018 (continued on 10 April 2018) | | Week 4 - PSET 5 |
 | Course | [Effective Thinking Through Mathematics - UTAustinX](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x-0) | | | |
 | Course | [Mathematics for Computer Science - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/) | | | |
 | Course | [Calculus One - OSUx](https://www.coursera.org/learn/calculus1) | | | |
@@ -16,7 +16,7 @@ This is a guide of the accomplishments in web development that I would like to t
 | :---: | :--- | :---: | :---: | :---: |
 | Course | [The Advanced Web Developer Bootcamp](https://www.udemy.com/the-advanced-web-developer-bootcamp/) | | | 6% complete |
 | Course | [Ultimate MySQL Bootcamp](https://www.udemy.com/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/) | | | |
-| Course | [VueJS 2 - The Complete Guide](https://www.udemy.com/vuejs-2-the-complete-guide/) | 12 March 2018 | | 21% complete |
+| Course | [VueJS 2 - The Complete Guide](https://www.udemy.com/vuejs-2-the-complete-guide/) | 12 March 2018 | | 30% complete |
 | Course | [The Complete Node.js Developer Course](https://www.udemy.com/the-complete-nodejs-developer-course-2/) | | | |
 | Course | [The Complete React Web App Developer Course](https://www.udemy.com/react-2nd-edition/) | | | |
 | Course | [Advanced CSS and SASS: Take Your CSS to the Next Level](https://www.udemy.com/advanced-css-and-sass/) | | | |
@@ -26,7 +26,7 @@ This is a guide of the accomplishments in web development that I would like to t
 | Type | Item | Begin | Project(s) | Completed |
 | :---: | :--- | :---: | :---: | :---: |
 | Book | [Eloquent Javascript](http://eloquentjavascript.net/) by Marijn Haverbeke | 15 January 2018 | | 20 February 2018 |
-| Book | [Programming Javascript Applications](https://ericelliottjs.com/product/programming-javascript-applications-ebook/) by Eric Elliott | 20 February 2018 | | Chapter 4 of 10 |
+| Book | [Programming Javascript Applications](https://ericelliottjs.com/product/programming-javascript-applications-ebook/) by Eric Elliott | 20 February 2018 | | Chapter 5 of 10 |
 | Book | [Effective Javascript](http://effectivejs.com/) by David Herman | | | |
 | Book | [You Don't Know Javascript - Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going/) by Kyle Simpson | | | |
 | Book | [You Don't Know Javascript - Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures) by Kyle Simpson  | | | |
@@ -41,7 +41,7 @@ This is a guide of the accomplishments in web development that I would like to t
 
 | Type | Item | Begin | Project(s) | Completed |
 | :---: | :--- | :---: | :---: | :---: |
-| Course | [Watch and Code - Practical Javascript](https://watchandcode.com/p/practical-javascript) | 12 March 2018 | | |
+| Course | [Watch and Code - Practical Javascript](https://watchandcode.com/p/practical-javascript) | 10 April 2018 | | |
 | Course | [Udacity - AJAX](https://www.udacity.com/course/intro-to-ajax--ud110) | | | |
 | Course | [Javascript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript/) | | | |
 | Slides | [Learn Advanced HTML &amp; CSS - Shay Howe](https://learn.shayhowe.com/advanced-html-css/) | | | |
