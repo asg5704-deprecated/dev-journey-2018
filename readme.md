@@ -42,7 +42,7 @@ This is a guide of the accomplishments in web development that I would like to t
 | Type | Item | Begin | Project(s) | Completed |
 | :---: | :--- | :---: | :---: | :---: |
 | Course | [Watch and Code - Practical Javascript](https://watchandcode.com/p/practical-javascript) | 08 April 2018 | | 28% |
-| Course | [Udacity - AJAX](https://www.udacity.com/course/intro-to-ajax--ud109) | 11 April 2018 | | 33% |
+| Course | [Udacity - AJAX](https://www.udacity.com/course/intro-to-ajax--ud109) | 11 April 2018 | n/a | 100% - 17 April 2018 |
 | Course | [Javascript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript/) | | | |
 | Slides | [Learn Advanced HTML &amp; CSS - Shay Howe](https://learn.shayhowe.com/advanced-html-css/) | | | |
 | Slides | [Getting Sassy with CSS - SASS Shop](http://www.sassshop.com/#/) | | | |
