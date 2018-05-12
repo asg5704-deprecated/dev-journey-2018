@@ -14,9 +14,9 @@ This is a guide of the accomplishments in web development that I would like to t
 
 | Type | Item | Begin | Project(s) | Completed |
 | :---: | :--- | :---: | :---: | :---: |
-| Course | [The Advanced Web Developer Bootcamp](https://www.udemy.com/the-advanced-web-developer-bootcamp/) | | | 6% complete |
+| Course | [The Advanced Web Developer Bootcamp](https://www.udemy.com/the-advanced-web-developer-bootcamp/) | 12 May 2018 | | 6% complete |
 | Course | [Ultimate MySQL Bootcamp](https://www.udemy.com/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/) | | | |
-| Course | [VueJS 2 - The Complete Guide](https://www.udemy.com/vuejs-2-the-complete-guide/) | 12 March 2018 | | 37% complete |
+| Course | [VueJS 2 - The Complete Guide](https://www.udemy.com/vuejs-2-the-complete-guide/) | 12 March 2018 | n/a | 12 May 2018 |
 | Course | [The Complete Node.js Developer Course](https://www.udemy.com/the-complete-nodejs-developer-course-2/) | | | |
 | Course | [The Complete React Web App Developer Course](https://www.udemy.com/react-2nd-edition/) | | | |
 | Course | [Advanced CSS and SASS: Take Your CSS to the Next Level](https://www.udemy.com/advanced-css-and-sass/) | | | |
@@ -53,7 +53,7 @@ This is a guide of the accomplishments in web development that I would like to t
 | Type | Item | Begin | Project(s) | Completed |
 | :---: | :--- | :---: | :---: | :---: |
 | Project | [100 Days of CSS](http://www.sassshop.com/#/) | | | |
-| Project | [Recipe Box App](#) from FreeCodeCamp - React | | | |
+| Project | [Recipe Box App](#) from FreeCodeCamp - Vue | | | |
 | Project | [URL Shortener Microservice](#) from FreeCodeCamp - Node | | | |
 | Project | [Beer Rating App](#) using BeerDB | | | |
 
